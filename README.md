@@ -5,3 +5,7 @@ This application's aim is to solve simple handwritten equation. An input is a ph
 ## Limitations
 
 This application only recognizes digits and basic equation signs i.e. "+", "-", ":", "*", "=".  
+
+# Author
+
+Natalia Karpowicz
